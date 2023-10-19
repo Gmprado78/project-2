@@ -2,6 +2,18 @@ body {
   background-color: SteelBlue;
 }
 
-#page2.html {
-	 background-color: green;
+#main-navbar{
+  background-color: DarkTurquoise
+  overflow: hidden;
+}
+
+#navbar-container {
+  float: left;
+  width: 100%;
+  position: relative;
+}
+#main-navbar ul {
+  position: relative;
+  float: left;
+  list-style-type: none;
 }
