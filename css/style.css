@@ -54,8 +54,11 @@ ul,li {
 
 li{
  text-align: center;
- font-family: "Times New Roman";
+ font-family: ;
 list-style-type: none;
 padding: 10 px;
 margin: 10px;
 }
+
+li
+
