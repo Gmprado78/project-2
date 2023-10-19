@@ -29,9 +29,10 @@ body {
 }
 
 #main-navbar ul li a {
-  padding: 10px 20px;
+  padding: 20px 120px;
   color: black;
   display: block;
+  border: 6px solid;
 }
 
 #main-navbar ul li a:hover {
@@ -60,5 +61,12 @@ padding: 10 px;
 margin: 10px;
 }
 
-li
+h1{
+  float: none;
+  background: gray;
+  position:relative;
+  border: 10px solid;
+  text-align: center;
+    padding: 20px 120px;
+}
 
