@@ -61,10 +61,10 @@ padding: 10 px;
 margin: 10px;
 }
 
-h1,h2,h3m,h4,h5{
+h1,h2,h3,h4,h5 {
   float: none;
   background: DeepSkyBlue;
-  position:relative;
+  position: relative;
   border: 7px solid;
   border-color: FloralWhite;
   text-align: center;
