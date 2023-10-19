@@ -38,6 +38,18 @@ body {
   background-color: GhostWhite;
 }
 
-header{
+h1,h2,h3,h4,h5,h6{
   text-align: center;
+  background-color: white;
+  display: block;
+   margin: 0px;
+  padding: 5px;
+  font-family: "Times New Roman";
 }
+
+ul,li {
+ text-align: center;
+ font-family: "Monteserrat";
+}
+
+font
