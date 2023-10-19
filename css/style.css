@@ -37,3 +37,7 @@ body {
 #main-navbar ul li a:hover {
   background-color: GhostWhite;
 }
+
+header{
+  text-align: header;
+}
