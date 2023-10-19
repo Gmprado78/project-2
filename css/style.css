@@ -17,3 +17,9 @@ body {
   float: left;
   list-style-type: none;
 }
+
+#main-navbar ul li{
+  display: block;
+  float: left;
+  position: relative;
+}
