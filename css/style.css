@@ -1,5 +1,6 @@
 body {
   background-color: SteelBlue;
+  font-family: 'BioRhyme', serif;
 }
 
 #main-navbar{
@@ -66,5 +67,4 @@ h1,h2,h3,h4,h5,h6{
   text-align: center;
   font-family: "Anton";
 }
-
 
