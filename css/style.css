@@ -6,13 +6,19 @@ body {
 #main-navbar{
   background-color: LightSkyBlue;
   overflow: hidden;
-  font-family: 'Maiden Orange', serif;
+ 
 }
 
 #navbar-container {
   float: left;
   width: 100%;
   position: relative;
+  
+}
+
+#main-navbar li{
+font-family: 'Maiden Orange', serif;
+
 }
 #main-navbar ul {
   position: relative;
