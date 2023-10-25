@@ -48,10 +48,10 @@ ul,li {
 
 li{
  text-align: center;
- font-family:"Times New Roman";
-list-style-type: none;
-padding: 10px;
-margin: 10px;
+  list-style-type: none;
+  padding: 10px;
+  margin: 10px;
+  font-family: 'Tilt Neon', sans-serif;
 }
 
 h1,h2,h3,h4,h5,h6{
