@@ -18,7 +18,7 @@ body {
 
 #main-navbar li{
 font-family: 'Maiden Orange', serif;
-
+font-size: 35px;
 }
 #main-navbar ul {
   position: relative;
@@ -34,6 +34,7 @@ font-family: 'Maiden Orange', serif;
    margin: 5px;
   padding: 10px;
   right: 50%;
+  
 }
 
 #main-navbar ul li a {
@@ -62,6 +63,7 @@ li{
 
 p {
   font-family: 'Tilt Neon', sans-serif;
+  text-align: center;
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -77,7 +79,24 @@ h1,h2,h3,h4,h5,h6{
   padding: 5px;
   text-align: center;
   font-family: 'BioRhyme', serif;
+  font-size: 30px;
+  border-radius: 9px;
 }
 
-section {
-  
+section{
+	border-style: outset;
+	border-radius: 20px;
+	 border-color: AliceBlue;
+	 margin: 30px;
+	 
+}
+
+img{
+  display: block;
+  margin: 0 auto;
+}
+
+iframe{
+	margin: 0 auto;
+	display: block;
+}
