@@ -6,25 +6,28 @@ body {
 #main-navbar{
   background-color: LightSkyBlue;
   overflow: hidden;
- 
 }
 
 #navbar-container {
   float: left;
   width: 100%;
   position: relative;
-  
+ border-radius: 20px;
 }
-
+ #main-navbar-container{
+	
+ }
 #main-navbar li{
 font-family: 'Maiden Orange', serif;
 font-size: 35px;
+
 }
 #main-navbar ul {
   position: relative;
   float: left;
   list-style-type: none;
   left: 50%;
+  
 }
 
 #main-navbar ul li{
@@ -99,4 +102,5 @@ img{
 iframe{
 	margin: 0 auto;
 	display: block;
+	
 }
