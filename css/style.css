@@ -103,5 +103,21 @@ img{
 iframe{
 	margin: 0 auto;
 	display: block;
-	
 }
+
+#main {
+  float: left;
+  width: 60%;
+  margin: 0 5%;
+}
+
+#extras {
+  float: left;
+  width: 25%;
+  margin: 0 5% 0 0;
+}
+
+#footer {
+  clear: left;
+}
+  
