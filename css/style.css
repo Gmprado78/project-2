@@ -50,6 +50,7 @@ nav{
   color: black;
   display: block;
   border: 6px solid;
+  text-decoration: none;
 }
 
 #main-navbar ul li a:hover {
@@ -149,3 +150,4 @@ div#main {
   float: left;
   background: orange;
 }
+
