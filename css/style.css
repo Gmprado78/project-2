@@ -109,45 +109,6 @@ iframe{
   display: block;
 }
 
-main {
-  float: left;
-  width: 60%;
-  margin: 0 5%;
-}
 
-#extras {
-  float: left;
-  width: 25%;
-  margin: 0 5% 0 0;
-}
 
-#footer {
-  clear: left;
-}
-
-#wrapper {width: 750px;
-  position: absolute;
-  margin-left: auto;
-  margin-right: auto;
-  border: 1px solid black;
-  padding: 0px;
-}
-
-#extras {position: absolute;
-  top: 0px;
-  left: 0px;
-  width: 200px;
-  background: orange;
-}
-
-main {
-  margin-left: 225px;
-  background: yellow;
-}
-
-div#main {
-  width: 70%;
-  float: left;
-  background: orange;
-}
 
