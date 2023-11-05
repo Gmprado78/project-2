@@ -109,6 +109,26 @@ iframe{
   display: block;
 }
 
+/* Two Columns FW Layout */
+#wrapper {
+  width: 960px;
+}
 
+#main {
+  float: left;
+  width: 650px;
+  margin: 0 20px;
+}
 
+#extras {
+  float: left;
+  width: 250px;
+  margin: 0 20px 0 0;
+}
+
+#footer {
+  clear: left;
+}
+
+/* Fluid layout */
 
