@@ -109,7 +109,7 @@ iframe{
   display: block;
 }
 
-#main {
+main {
   float: left;
   width: 60%;
   margin: 0 5%;
@@ -140,7 +140,7 @@ iframe{
   background: orange;
 }
 
-#main {
+main {
   margin-left: 225px;
   background: yellow;
 }
