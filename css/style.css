@@ -96,7 +96,7 @@ section{
 	border-style: outset;
   border-radius: 20px;
   border-color: AliceBlue;
-  margin: 30px;
+  margin: 0px;
 }
 
 img{
@@ -109,26 +109,28 @@ iframe{
   display: block;
 }
 
-/* Two Columns FW Layout */
+/* fixed*/
 #wrapper {
-  width: 960px;
-}
-
-#main {
-  float: left;
-  width: 650px;
-  margin: 0 20px;
+  width: 1890px;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1 px solid black;
+  padding: 0px;
+  margin: 0 auto;
 }
 
 #extras {
-  float: left;
-  width: 250px;
-  margin: 0 20px 0 0;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 200px;
+  background: orange;
 }
 
-#footer {
-  clear: left;
+#main {
+margin-left: 225px;
+background-color: #00b5d6;
 }
-
 /* Fluid layout */
 
