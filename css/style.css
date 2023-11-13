@@ -57,12 +57,12 @@ nav{
 }
 
 #main-navbar ul li a:hover {
-  background-color: LightSlateGrey;
+background-color: LightSlateGrey;
 }
 
 #main-navbar #onpage{
-	text-decoration: underline;
-	background-color: green;
+text-decoration: underline;
+background-color: green;
 }
 ul,li {
   text-align: center;
@@ -150,8 +150,6 @@ margin-left: 225px;
 background-color: #00b5d6;
 }
 /* Fluid layout */
-
-
 	
 #main2 {
   float:left;
